@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "6 dec 2014"
+Date "8 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1758,4 +1758,33 @@ F 3 "" H 8600 6700 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	8550 6300 8650 6300
+$Comp
+L C 10uF
+U 1 1 548508E8
+P 9600 2350
+F 0 "10uF" H 9600 2450 40  0000 L CNN
+F 1 "C" H 9606 2265 40  0000 L CNN
+F 2 "~" H 9638 2200 30  0000 C CNN
+F 3 "~" H 9600 2350 60  0000 C CNN
+	1    9600 2350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9400 2350 9200 2350
+Connection ~ 9200 2350
+Wire Wire Line
+	9800 2350 9850 2350
+Wire Wire Line
+	9850 2350 9850 2500
+$Comp
+L GND #PWR?
+U 1 1 54850A98
+P 9850 2500
+F 0 "#PWR?" H 9850 2500 30  0001 C CNN
+F 1 "GND" H 9850 2430 30  0001 C CNN
+F 2 "" H 9850 2500 60  0000 C CNN
+F 3 "" H 9850 2500 60  0000 C CNN
+	1    9850 2500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
