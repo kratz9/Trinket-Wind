@@ -1,6 +1,6 @@
-update=12/13/2014 1:19:42 PM
+update=12/17/2014 7:33:51 AM
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -45,8 +45,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[general]
-version=1
 [pcbnew]
 version=1
 LastNetListRead=Sensor.net
@@ -86,3 +84,5 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=C:/Users/kratz/Documents/GitHub/Library/CustomConnect
 LibName18=C:/Users/kratz/Documents/GitHub/Library/CustomSMD
+[general]
+version=1
