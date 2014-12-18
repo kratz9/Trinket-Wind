@@ -36,7 +36,7 @@ $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "13 dec 2014"
+Date "17 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -2151,7 +2151,7 @@ U 1 1 548C8A8F
 P 6700 8850
 F 0 "Q1" H 6700 9040 60  0000 R CNN
 F 1 "MOS_P" H 6700 8670 60  0000 R CNN
-F 2 "~" H 6700 8850 60  0000 C CNN
+F 2 "SOT23" H 6700 8850 60  0000 C CNN
 F 3 "~" H 6700 8850 60  0000 C CNN
 	1    6700 8850
 	-1   0    0    1   
