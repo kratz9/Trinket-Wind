@@ -1,0 +1,20 @@
+ref,value,Item count
+C1..C8,Cfilter,8
+C9..C13,Cdecouple,5
+C14,10uF,1
+P1,CONN_12,1
+Q1,MOS_P,1
+R1..R8,RD,8
+R9..R16,OpR1,8
+R17..R24,OpR2,8
+R25..R28,Rfilter,4
+R29,FloorRef1,1
+R30,FloorRef2,1
+R31..R38,OpR1,8
+R39..R46,OpR2,8
+R47..R50,Rfilter,4
+R51,10K,1
+TH1..TH8,THERM,8
+U1..U3,LM324,3
+U4,TL071,1
+U5,LM324,1
