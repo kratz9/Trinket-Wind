@@ -21,9 +21,6 @@
     <ClInclude Include="Visual Micro\.TrinketWind.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\GitHub\Trinket-Wind\Code\Structs.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Visual Micro\.Code.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>

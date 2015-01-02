@@ -19,24 +19,6 @@ struct Raw
 	int West;
 	int NorthWest;
 
-	Raw(int North,
-		int NorthEast,
-		int East,
-		int SouthEast,
-		int South,
-		int SouthWest,
-		int West,
-		int NorthWest)
-	{
-		North = North;
-		NorthEast = NorthEast;
-		East = East;
-		SouthEast = SouthEast;
-		South = South;
-		SouthWest = SouthWest;
-		West = West;
-		NorthWest = NorthWest;
-	}
 };
 
 /*
